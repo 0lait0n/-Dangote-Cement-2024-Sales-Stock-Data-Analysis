@@ -35,7 +35,7 @@ Created new features:
 - Month, MonthName, Year extracted from Date
 - Exported cleaned data for SQL and Power BI
 
-![](Python_end.jpg)
+![](Python_end.jpg) ![](1.jpg) ![](2.jpg) ![](3.jpg) ![](4.jpg) ![](5.jpg) ![](6.jpg) ![](7.jpg)
 _You can access the file_ [here](https://github.com/0lait0n/-Dangote-Cement-2024-Sales-Stock-Data-Analysis/blob/main/DANGOTE_CEMENT_Python.ipynb)
 
 ## 🧮 SQL Analysis (MySQL)
