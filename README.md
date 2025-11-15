@@ -6,7 +6,6 @@ A full-cycle data analytics project uncovering sales, inventory, and stock insig
 
 ---
 
-
 ## 📖 Story Behind the Project
 <p align="justify"> In 2024, Dangote Cement, Africa’s leading cement manufacturer, sought to uncover deeper insights into its sales performance, inventory efficiency, and stock market behavior. This project tells the story of how raw data was transformed into business intelligence, empowering strategic decisions with Python, SQL, and Power BI.
 </p>
@@ -94,4 +93,6 @@ _You can access the Queries_ [here](https://github.com/0lait0n/-Dangote-Cement-2
 - 📘 Excel	Initial validation & exploration
 
 ## ⭐ Project Summary
-<p align="justify"> A complete end-to-end data analysis of Dangote Cement’s 2024 Sales & Stock performance — combining data cleaning, SQL analysis, and Power BI storytelling to turn raw data into business strategy. </p>
+<p align="justify"> This analysis successfully addressed the core business challenge of understanding how Dangote Cement performs across regions, products, and monthly cycles. By bringing together insights on sales trends, profitability, inventory movement, and customer payment behavior, the work provided a clear picture of where the business is excelling and where inefficiencies are costing time and money. The data clearly revealed strong-performing regions, confirmed the dominance of the 50kg cement product, highlighted variations in profit margins, and exposed inventory imbalances that could slow down operations. </p>
+
+<p align="justify"> The impact of this analysis is significant, as it equips management with evidence-based insights to guide strategic decisions. Leaders can now focus on high-performing regions, strengthen weak areas, optimize stock distribution, and plan more accurate monthly sales targets. These findings not only support operational improvements but also enhance overall profitability and cash-flow stability. Looking ahead, opportunities for deeper value; such as sales forecasting, customer payment risk modeling, and real-time automated dashboards can further strengthen decision-making and drive long-term business growth. </p>
